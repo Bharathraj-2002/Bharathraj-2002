@@ -1,80 +1,3 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&section=header" width="100%"/>
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=38&duration=3000&pause=1200&color=EC4899,8B5CF6,06B6D4&center=true&vCenter=true&width=780&height=60&lines=Bharath+Raj" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=400&size=18&duration=2600&pause=900&color=94A3B8&center=true&vCenter=true&repeat=true&width=780&height=40&lines=Full+Stack+Web+Developer;Python+%2B+Django+%2F%2F+React.js;Building+clean%2C+responsive+web+apps" />
-
-<br/>
-
-<code>📍 Tamil Nadu, India&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;🎓 B.Sc Computer Science '25&nbsp;&nbsp;&nbsp;·&nbsp;&nbsp;&nbsp;⚡ Learning Python Full Stack</code>
-
-<br/><br/>
-
-<a href="mailto:bharathraj200207@gmail.com"><img src="https://img.shields.io/badge/-Email-0F0C29?style=flat-square&logo=gmail&logoColor=EC4899" /></a>
-<a href="https://www.linkedin.com/in/bharath-raj-222339381"><img src="https://img.shields.io/badge/-LinkedIn-0F0C29?style=flat-square&logo=linkedin&logoColor=06B6D4" /></a>
-<a href="https://github.com/Bharathraj-2002"><img src="https://img.shields.io/badge/-GitHub-0F0C29?style=flat-square&logo=github&logoColor=8B5CF6" /></a>
-<a href="tel:+919344169652"><img src="https://img.shields.io/badge/-%2B91%209344169652-0F0C29?style=flat-square&logo=whatsapp&logoColor=22C55E" /></a>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&section=header" width="100%"/>
-
-</div>
-
-<br/>
-
-<table width="100%">
-<tr>
-<td width="33%" align="center">
-
-### 🐍 Backend
-`Python` `Django` `MySQL`
-
-</td>
-<td width="33%" align="center">
-
-### 🎨 Frontend
-`React.js` `Bootstrap` `HTML5` `CSS3` `JavaScript`
-
-</td>
-<td width="33%" align="center">
-
-### 🛠️ Tooling
-`Git` `VS Code` `SQL`
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=python,django,mysql,js,react,bootstrap,html,css,git,vscode&theme=dark&perline=10" />
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=2&section=header" width="100%"/>
-
-## `~/about`
-
-```
-> whoami
-
-Full Stack Web Developer, fresh out of a Computer Science degree,
-focused on building fast, responsive, and genuinely usable web apps.
-
-Comfortable owning a feature end-to-end — from a Django/Python backend
-and MySQL schema, to a polished React.js + Bootstrap front end.
-
-Currently deepening full-stack skills through a dedicated Python Full
-Stack program, while shipping small real-world projects along the way.
-```
-
 <br/>
 
 ## `~/projects`
@@ -112,10 +35,10 @@ flow simulating a real checkout.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Python%20Full%20Stack-In%20Progress-0F0C29?style=flat-square&logo=python&logoColor=EC4899&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/HackerRank-Python-0F0C29?style=flat-square&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/HackerRank-SQL-0F0C29?style=flat-square&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
-<img src="https://img.shields.io/badge/HackerRank-JavaScript-0F0C29?style=flat-square&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/Python%20Full%20Stack-In%20Progress-0F0C29?style=for-the-badge&logo=python&logoColor=EC4899&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/HackerRank-Python-0F0C29?style=for-the-badge&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/HackerRank-SQL-0F0C29?style=for-the-badge&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
+<img src="https://img.shields.io/badge/HackerRank-JavaScript-0F0C29?style=for-the-badge&logo=hackerrank&logoColor=06B6D4&labelColor=0F0C29"/>
 
 <br/>
 <sub>Python Full Stack training — Pumo Technovation, Marathahalli, Bangalore</sub>
@@ -184,8 +107,12 @@ open_to:  [entry-level web dev roles, internships, freelance work]
 
 <br/><br/>
 
+<img src="https://komarev.com/ghpvc/?username=Bharathraj-2002&label=Profile%20Views&color=8B5CF6&style=flat-square" />
+
+<br/><br/>
+
 <sub>designed &amp; built with 🖤 by Bharath Raj — 2026</sub>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0F0C29,50:302B63,100:24243E&height=3&section=header" width="100%"/>
-
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=100&section=footer" width="100%"/>
