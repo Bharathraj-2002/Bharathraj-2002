@@ -1,0 +1,36 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/main/dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/main/light.svg">
+  <img alt="Bharath Raj" src="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/main/light.svg">
+</picture>
+
+<div align="center">
+
+<img width="100%" src="https://streak-stats.demolab.com/?user=Bharathraj-2002&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
+<br/>
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api?username=Bharathraj-2002&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=Bharathraj-2002&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+
+<br/><br/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/output/github-snake.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/Bharathraj-2002/Bharathraj-2002/output/github-snake.svg" />
+</picture>
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/bharath-raj-222339381/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/Bharathraj-2002">
+  <img src="https://img.shields.io/badge/GitHub-0A101F?style=for-the-badge&logo=github&logoColor=A78BFA&labelColor=0A101F" alt="GitHub" />
+</a>
+&nbsp;&nbsp;
+<a href="mailto:bharathraj200207@gmail.com">
+  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" />
+</a>
+
+</div>
